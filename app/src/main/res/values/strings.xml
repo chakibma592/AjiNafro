@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">AjiNafro</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Bonjour fragment vide</string>
+    <string name="carpool_title">Espace de covoiturage</string>
+    <string name="home_title">Accueil</string>
+    <string name="profil_title"> Pseudo </string>
+    <string name="email_hint_field">Adresse email</string>
+    <string name="forgot_password">Mot de passe oublié</string>
+    <string name="register_now">S\'inscrire ! </string>
+    <string name="SignIn_btn_text">Se connecter</string>
+    <string name="welcome_text">Bonjour</string>
+    <string name="dont_have_account_text">Pas de compte ? Pas de problème ,</string>
+    <string name="signup_text">Inscription</string>
+    <string name="already_have_an_account">Déja inscrit ? </string>
+    <!-- Edit Profil -->
+    <string name="user_name">Nom d utilisateur</string>
+    <string name="modifier_profil">Modifier Profil</string>
+    <string name="edit_img">Changer la photo de profil</string>
+    <string name="ancien_mdp">ancien mot de passe</string>
+    <string name="nouveau_mdp">nouveau mot de passe</string>
+    <string name="modifier">Modifier</string>
+    <string name="phone">telephone</string>
+    <string name="city">ville</string>
+    <string name="edit_mdp">" Modifier le mot de passe"</string>
+    <string name="citypicker_title">Choix de ville :</string>
+    <string name="citypicker_edittext_hint" />
+    <string name="citypicker_confirm_btn">Confirmer</string>
+    <!-- New Post -->
+    <string name="ajouter_post">Nouvelle publication</string>
+    <string name="addpost_poi_name_hint">Nom D\'endroit</string>
+    <string name="title_activity_maps_picker">Map</string>
+    <string name="addpost_retry_btn" />
+    <string name="addpost_share_btn_text">Partager</string>
+    <!-- Search  -->
+    <string name="searchFragment_title">Recherche</string>
+    <string name="searchFragment_searchbar_hint">Rechercher</string>
+    <string name="filter_picker_title">Choix de filtre : </string>
+    <string name="filter_picker_subtitle1">Catégories : </string>
+    <string name="filter_picker_subtitle2">Ville : </string>
+    <string name="filterpicker_confirmbtn">Valider</string>
+    <!-- CARpool section -->
+
+    <string name="carpool_mycarpools_btn">mes offres</string>
+    <string name="carpool_title_description">Salut, tu voyages quelque part?</string>
+    <string name="carpool_title_description2">avec un groupe c\'est mieux</string>
+    <string name="carpool_addnew_btn">Ajouter un covoiturage</string>
+    <string name="searchcarpool_startcity_hint">Ville de départ</string>
+    <string name="searchcarpool_endcity_hint">Ville de destination</string>
+    <string name="carpool_addalert_btn">Créer une alerte</string>
+    <string name="carpool_subtitle1">Vous avez pas trouver un resultat ?</string>
+    <string name="searchcarpool_subtitle2">Pas d\'inquiétude! Vous pouvez créer une alerte avec tes critères</string>
+    <string name="newcarpool_nextbtn">Suivant</string>
+    <string name="newcarpool_datefield">ex: 12/12/2020 </string>
+    <string name="newcarpool_backbtn" >Annuler</string>
+    <string name="newcarpool_description_hint">Vous avez d\'autres critères à suggérer ?  \n Tapez les ici ...</string>
+    <string name="newcarpool_chooseplace_nombre_text">Nombre des places disponibles</string>
+    <string name="newcarpool_placelimite">Afin de limiter tout risque de contamination pour nos membres, nous te conseillons de ne pas dépasser 3 places et d\'inviter tes futures passagers à respecter les gestes barrières.</string>
+    <string name="newcarpool_chooseprice_text" >Prix par passager</string>
+    <string name="price_hint">Taper le prix en Dh ici...</string>
+    <string name="back_text">Retour</string>
+    <string name="date">...</string>
+    <string name="time">...</string>
+    <string name="Place">...</string>
+    <string name="price">...</string>
+    <string name="search_carpool_btn">Rechercher</string>
+    <string name="details">Plus d \'information</string>
+</resources>
